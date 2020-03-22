@@ -75,6 +75,10 @@ th, td {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+.konten4 .ik4 .bt:hover{
+    transition: 0.5s;
+    background-color: rgb(255, 246, 164);
+}
 .konten6{
     background-color: #3f3f3f;
     padding-top: 90px;

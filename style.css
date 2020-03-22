@@ -148,6 +148,7 @@ a{
     margin-right: 10px;
 }
 .ins1:hover{
+    transition: 1s;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.10);
 }
 .ins1 img{
@@ -165,6 +166,10 @@ a{
     padding-bottom: 20px;
     background-color: #FFEB3B;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.10);
+}
+.lll:hover{
+    transition: 0.5s;
+    background-color: rgb(255, 246, 164);
 }
 .konten4{
     padding-top: 150px;
@@ -198,6 +203,10 @@ a{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+.konten4 .ik4 .bt:hover{
+    transition: 0.5s;
+    background-color: rgb(255, 246, 164);
+}
 .konten5{
     height: 470px;
 }
@@ -218,6 +227,10 @@ a{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.10);
     padding-top: 18px;
     padding-bottom: 18px;
+}
+.konten5 .kk5i .bt1:hover{
+    transition: 0.5s;
+    background-color: rgb(255, 246, 164);
 }
 .konten6{
     background-color: #3f3f3f;
